@@ -1,0 +1,11 @@
+.nav a:link {
+    color: black;
+}
+.nav a:visited{
+    color: black;
+    
+}
+
+.slide{
+    height: 600px;
+}
